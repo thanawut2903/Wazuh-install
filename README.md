@@ -1,5 +1,7 @@
 # Wazuh-install
 
+Wazuh server ทำหน้าที่วิเคราะห์และตรวจจับการโจมตีจากข้อมูลจราจรทางคอมพิวเตอร์
+
 https://documentation.wazuh.com/current/installation-guide/wazuh-indexer/installation-assistant.html
 
 1.curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh
